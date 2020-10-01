@@ -24,8 +24,10 @@ The following tasks and questions will drive the visualization and interaction d
  * Does the gender and salry affect churning of a customer?
 
 ## Sketches
+Here are a couple of sketeches
+[!Credit Score vs Salary](Credit_score_salary.jpeg)
 
+[!Gender vs Salary](Gender_Salary.jpeg)
 
 ## Open Questions
-
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+There is a lot of data and I hope to make it clean visually. How can I scale my data to make it look clean?
