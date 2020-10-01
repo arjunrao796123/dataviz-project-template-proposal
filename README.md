@@ -28,6 +28,7 @@ Here are a couple of sketeches
 This image is a depiction of the credit score vs salary. We can study how churn is affected here and how these factors influence each other.
 ![Image](Credit_score_salary.jpeg)
 
+
 This image is a depiction of gender vs salary. We can check if the customers are paid equally and on what basis a cusotmer of a certain gender churns.
 ![Image](Gender_Salary.jpeg)
 
