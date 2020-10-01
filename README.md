@@ -2,7 +2,9 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is the churn dataset found in [https://www.kaggle.com/shubh0799/churn-modelling]. I have createdd a gist of this dataset at
+[https://gist.github.com/arjunrao796123/7c30f2b6d4a3a3746b0154260a7f46e8]. The dataset consists of 10000 data points which reprsesnt customers for a company. Each data point consists of details of the customer like CreditScore, Geography, Age,  Gender etc.. 
+
 
 ## Prototypes
 
