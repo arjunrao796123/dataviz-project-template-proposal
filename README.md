@@ -11,21 +11,20 @@ The data I propose to visualize for my project is the churn dataset found in [ht
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
 ![Image](Churn_sample.PNG)
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
+
+The image shows a compariosn between Age and Creditscore. The orange color indicates the customer has churned and the blue dot indicates that the customer has not churned.
+
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Which factors most influence churning of a customer?
+ * Which country is responsible for less churning? Is there a specific reason for this?
+ * Does the gender and salry affect churning of a customer?
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
 ## Open Questions
 
