@@ -26,10 +26,10 @@ The following tasks and questions will drive the visualization and interaction d
 ## Sketches
 Here are a couple of sketeches
 This image is a depiction of the credit score vs salary. We can study how churn is affected here and how these factors influence each other.
-[!Image](Credit_score_salary.jpeg)
+![Image](Credit_score_salary.jpeg)
 
 This image is a depiction of gender vs salary. We can check if the customers are paid equally and on what basis a cusotmer of a certain gender churns.
-[!Image](Gender_Salary.jpeg)
+![Image](Gender_Salary.jpeg)
 
 ## Open Questions
 There is a lot of data and I hope to make it clean visually. How can I scale my data to make it look clean?
