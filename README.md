@@ -8,7 +8,7 @@ The data I propose to visualize for my project is the churn dataset found in [ht
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data.
 
 ![Image](Churn_sample.PNG)
 
@@ -25,9 +25,11 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 Here are a couple of sketeches
-[!Credit Score vs Salary](Credit_score_salary.jpeg)
+This image is a depiction of the credit score vs salary. We can study how churn is affected here and how these factors influence each other.
+[!Image](Credit_score_salary.jpeg)
 
-[!Gender vs Salary](Gender_Salary.jpeg)
+This image is a depiction of gender vs salary. We can check if the customers are paid equally and on what basis a cusotmer of a certain gender churns.
+[!Image](Gender_Salary.jpeg)
 
 ## Open Questions
 There is a lot of data and I hope to make it clean visually. How can I scale my data to make it look clean?
