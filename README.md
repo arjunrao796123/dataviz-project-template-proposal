@@ -25,13 +25,40 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 Here are a couple of sketeches
-This image is a depiction of the credit score vs salary. We can study how churn is affected here and how these factors influence each other.
-Usually low salary can lead to churn and I am hoping to see if the assumption is correct.
+* This image is a depiction of the credit score vs salary.
+* We can study how churn is affected here and how these factors influence each other.
+  - Since there are 10000 data points, I plan to bin the salaries based on a $10000 increments. 
+* Usually low salary can lead to churn and I am hoping to see if the assumption is correct.
+* A low credit score can also lead to churn as the customer is a regualr defaulter when it comes to payments and this can be a reason to churn.
+* I plan to have a drop dorwn menu where we can view a range of salaries and credit scores.
 ![Image](Credit_score_salary.jpeg)
 
-This image is a depiction of gender vs salary. We can check if the customers are paid equally and on what basis a cusotmer of a certain gender churns.
-The salary should be almpst same since salary should not be based on gender. It will interesting to see how each gender churns.
+* This image is a depiction of gender vs salary. 
+* We can check if the customers are paid equally and on what basis a cusotmer of a certain gender churns.
+  - The salary should be similar since salary should not be based on gender. There are a lot of issues these days regarding salary and I am hoping to see if this company is not     biased to a particular gender.
+* I plan to have a drop down menu from where we can select a range of salaries. Binning will be done in order to reduce the number of data points.
 ![Image](Gender_Salary.jpeg)
 
-## Open Questions
-There is a lot of data and I hope to make it clean visually. How can I scale my data to make it look clean?
+* Since the dataset contains geographical data as well, it will be interesting to see how the company is performing all over the globe.
+* I will have a drop down menu which will allow a choice of country
+  - Once that is done, there will be a choice of features to display to understand how the feature is for that country.
+* This can be used by the company to see where it is not performing well and can narrow down the features to pin point the problem.
+
+## Schedule of Deliverables
+
+* October 10
+  - Bin the salaries and have the salaires part of the data ready to plot
+  - October 13: Set the range of salaries in the graph for the drop down menu
+* October 17
+  - Plot the first visualization
+  - October 19: Complete inclusion of the drop down menu
+  - October 21: Ensure no erros in the code
+* October 24
+  - Plot the second visualization without any errors
+  - October 26: Include the drop down menus and ensure no errors in the code
+* October 30
+  - Plot the third visualization
+  - October 31: Have the drop down of countries ready for display
+  - November 1: Include the features in the drop down menu and have no errors 
+* November 4
+  - Finalize and implement any inputs provided to make the visualization appealing.
