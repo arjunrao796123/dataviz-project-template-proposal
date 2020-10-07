@@ -37,6 +37,7 @@ Here are a couple of sketeches
 * We can check if the customers are paid equally and on what basis a cusotmer of a certain gender churns.
   - The salary should be similar since salary should not be based on gender. There are a lot of issues these days regarding salary and I am hoping to see if this company is not     biased to a particular gender.
 * I plan to have a drop down menu from where we can select a range of salaries. Binning will be done in order to reduce the number of data points.
+
 ![Image](Gender_Salary.jpeg)
 
 * Since the dataset contains geographical data as well, it will be interesting to see how the company is performing all over the globe.
