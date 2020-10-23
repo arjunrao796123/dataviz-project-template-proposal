@@ -21,7 +21,7 @@ The following tasks and questions will drive the visualization and interaction d
 
  * Which factors most influence churning of a customer?
  * Which country is responsible for less churning? Is there a specific reason for this?
- * Does the gender and salry affect churning of a customer?
+ * Does the gender and salary affect churning of a customer?
 
 ## Sketches
 Here are a couple of sketeches
@@ -53,7 +53,7 @@ Here are a couple of sketeches
 * October 17
   - Plot the first visualization
   - October 19: Complete inclusion of the drop down menu
-  - October 21: Ensure no erros in the code
+  - October 21: Ensure no errors in the code
 * October 24
   - Plot the second visualization without any errors
   - October 26: Include the drop down menus and ensure no errors in the code
