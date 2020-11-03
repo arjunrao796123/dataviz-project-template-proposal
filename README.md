@@ -71,5 +71,6 @@ Here are a couple of sketeches
 * Plot 1
   - It does binning of the data in order to represent 10000 data points
   - Instead of having a fixed choice of salary, it allows choice of salary range as well as a sliding window.
- 
- ![Image](https://vizhub.com/arjunrao796123/676da987c9ee4aa9923d495bbedc70c6?edit=files&mode=full)
+  
+  
+ [![Plot 1](https://github.com/arjunrao796123/dataviz-project-template-proposal/issues/1#issue-735002138] (https://vizhub.com/arjunrao796123/676da987c9ee4aa9923d495bbedc70c6?edit=files)
