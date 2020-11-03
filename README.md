@@ -66,7 +66,7 @@ Here are a couple of sketeches
 
 
 
-##Visualizations
+## Visualizations
 
 * Plot 1
   - It does binning of the data in order to represent 10000 data points
@@ -74,3 +74,19 @@ Here are a couple of sketeches
   
   
  [![Plot 1](https://user-images.githubusercontent.com/42538714/97949302-30a3b380-1d61-11eb-983e-07403e6d3f2a.png)](https://vizhub.com/arjunrao796123/676da987c9ee4aa9923d495bbedc70c6?edit=files&mode=full)
+
+
+* Plot 2 
+  - This plot is built upon the previous visualization integrating the gender and countries as menus
+  - It displays Gender as an option between male and female
+  - The countries available is a part of the drop down menu
+  - An interesting obsevation is that in Germany, females are churning more than in any other country. It would be interesting to know the exact reason for this.
+  - France and spain seem to be major clients for this company.
+
+ [![Plot 2]( https://user-images.githubusercontent.com/42538714/97950049-97c26780-1d63-11eb-85aa-c6c71c320510.png)](https://vizhub.com/arjunrao796123/fa1cfacc2908471ab0c0e6c1aa55b575?mode=full)
+
+* Plot 3
+  - A display of gender vs salaries
+  - Sliding across the salray range, it shows the selected customers that fit the filter value
+  
+ [![Plot 2]( https://user-images.githubusercontent.com/42538714/97950296-701fcf00-1d64-11eb-8240-aee2e8f4dfba.png)](https://vizhub.com/arjunrao796123/577b7e4d41b84c19aa8830ca0fd7e4c8)
