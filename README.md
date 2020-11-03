@@ -63,3 +63,13 @@ Here are a couple of sketeches
   - November 1: Include the features in the drop down menu and have no errors 
 * November 4
   - Finalize and implement any inputs provided to make the visualization appealing.
+
+
+
+##Visualizations
+
+* Plot 1
+  - It does binning of the data in order to represent 10000 data points
+  - Instead of having a fixed choice of salary, it allows choice of salary range as well as a sliding window.
+ 
+ ![alt text](https://vizhub.com/arjunrao796123/676da987c9ee4aa9923d495bbedc70c6?edit=files&mode=full)
