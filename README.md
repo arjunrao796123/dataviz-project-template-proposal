@@ -70,14 +70,16 @@ Here are a couple of sketeches
 
 * Plot 1
   - It does binning of the data in order to represent 10000 data points
+  - The number of bins chosen for this was 150 as it seemed to accomodate all the values
   - Instead of having a fixed choice of salary, it allows choice of salary range as well as a sliding window.
-  
+  - The Y axis represents the creditscore
   
  [![Plot 1](https://user-images.githubusercontent.com/42538714/97949302-30a3b380-1d61-11eb-983e-07403e6d3f2a.png)](https://vizhub.com/arjunrao796123/676da987c9ee4aa9923d495bbedc70c6?edit=files&mode=full)
 
 
 * Plot 2 
   - This plot is built upon the previous visualization integrating the gender and countries as menus
+  - The number of bins chosen for this was 150 as it seemed to accomodate all the values
   - It displays Gender as an option between male and female
   - The countries available is a part of the drop down menu
   - An interesting obsevation is that in Germany, females are churning more than in any other country. It would be interesting to know the exact reason for this.
@@ -90,3 +92,10 @@ Here are a couple of sketeches
   - Sliding across the salray range, it shows the selected customers that fit the filter value
   
  [![Plot 2]( https://user-images.githubusercontent.com/42538714/97950296-701fcf00-1d64-11eb-8240-aee2e8f4dfba.png)](https://vizhub.com/arjunrao796123/577b7e4d41b84c19aa8830ca0fd7e4c8)
+
+
+## Future Work
+
+  * Include number of bins as a choice (Plot 1 and Plot 2)
+  * Include other features as a choice (Plot 1 and Plot 2)
+  
