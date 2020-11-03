@@ -73,4 +73,4 @@ Here are a couple of sketeches
   - Instead of having a fixed choice of salary, it allows choice of salary range as well as a sliding window.
   
   
- [![Plot 1](https://github.com/arjunrao796123/dataviz-project-template-proposal/issues/1#issue-735002138](https://vizhub.com/arjunrao796123/676da987c9ee4aa9923d495bbedc70c6?edit=files&mode=full)
+ [![Plot 1](https://user-images.githubusercontent.com/42538714/97949302-30a3b380-1d61-11eb-983e-07403e6d3f2a.png](https://vizhub.com/arjunrao796123/676da987c9ee4aa9923d495bbedc70c6?edit=files&mode=full)
