@@ -20,7 +20,7 @@ The image shows a compariosn between Age and Creditscore. The orange color indic
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * How do certain factors affec churn?
+ * How do certain factors affect churn?
  * Which country is responsible for less churning? Is there a specific reason for this?
  * Does the gender and salary affect churning of a customer?
 
