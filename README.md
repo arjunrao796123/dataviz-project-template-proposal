@@ -10,7 +10,8 @@ The data I propose to visualize for my project is the churn dataset found in [ht
 
 I’ve created a proof of concept visualization of this data.
 
-![Image](Churn_sample.PNG)
+ [![Intro Plot](https://user-images.githubusercontent.com/42538714/98187063-15aa7e00-1ede-11eb-8b67-55a177755409.png)](https://vizhub.com/arjunrao796123/d170c8f6f2c1473ca923e1ed8ece8e4a)
+
 
 The image shows a compariosn between Age and Creditscore. The orange color indicates the customer has churned and the blue dot indicates that the customer has not churned.
 
@@ -19,7 +20,7 @@ The image shows a compariosn between Age and Creditscore. The orange color indic
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * HOw do certain factors affec churn?
+ * How do certain factors affec churn?
  * Which country is responsible for less churning? Is there a specific reason for this?
  * Does the gender and salary affect churning of a customer?
 
