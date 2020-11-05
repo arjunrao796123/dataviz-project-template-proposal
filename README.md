@@ -98,7 +98,7 @@ Here are a couple of sketeches
 
 
 ## Future Work
-
+  * Implement the same visualization in d3 since this utilises vegalite-api.
   * Include number of bins as a choice (Plot 1 and Plot 2)
   * Include other features as a choice (Plot 1 and Plot 2)
   
