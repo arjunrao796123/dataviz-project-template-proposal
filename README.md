@@ -103,3 +103,5 @@ Here are a couple of sketeches
   * Include number of bins as a choice (Plot 1 and Plot 2)
   * Include other features as a choice (Plot 1 and Plot 2)
   
+  
+  Video link : https://youtu.be/zslTbccipKw
