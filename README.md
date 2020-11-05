@@ -75,7 +75,7 @@ Here are a couple of sketeches
   - Instead of having a fixed choice of salary, it allows choice of salary range as well as a sliding window.
   - The Y axis represents the creditscore
   
- [![Plot 1](https://user-images.githubusercontent.com/42538714/97949302-30a3b380-1d61-11eb-983e-07403e6d3f2a.png)](https://vizhub.com/arjunrao796123/676da987c9ee4aa9923d495bbedc70c6?edit=files&mode=full)
+ [![Plot 1](https://user-images.githubusercontent.com/42538714/97949302-30a3b380-1d61-11eb-983e-07403e6d3f2a.png)](https://vizhub.com/arjunrao796123/676da987c9ee4aa9923d495bbedc70c6?edit=files)
 
 
 * Plot 2 
@@ -86,7 +86,7 @@ Here are a couple of sketeches
   - An interesting obsevation is that in Germany, females are churning more than in any other country. It would be interesting to know the exact reason for this.
   - France and spain seem to be major clients for this company.
 
- [![Plot 2]( https://user-images.githubusercontent.com/42538714/97950049-97c26780-1d63-11eb-85aa-c6c71c320510.png)](https://vizhub.com/arjunrao796123/fa1cfacc2908471ab0c0e6c1aa55b575?mode=full)
+ [![Plot 2]( https://user-images.githubusercontent.com/42538714/97950049-97c26780-1d63-11eb-85aa-c6c71c320510.png)](https://vizhub.com/arjunrao796123/fa1cfacc2908471ab0c0e6c1aa55b575)
 
 * Plot 3
   - A display of gender vs salaries
