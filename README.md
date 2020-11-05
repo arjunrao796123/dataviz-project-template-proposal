@@ -92,8 +92,9 @@ Here are a couple of sketeches
   - Sliding across the salray range, it shows the selected customers that fit the filter value
   - As the salary range is selected, only the points that satify that range is shown. 
   - A lot of data points are close to each other as there are 10000 datapoints, to help differentiate what is being shown, zooming is available and data points can be identified with ease.
+  - With the age vs count graph, the plot displays in color only the age range that has been selected.
   
- [![Plot 2]( https://user-images.githubusercontent.com/42538714/97950296-701fcf00-1d64-11eb-8240-aee2e8f4dfba.png)](https://vizhub.com/arjunrao796123/577b7e4d41b84c19aa8830ca0fd7e4c8)
+ [![Plot 3]( https://user-images.githubusercontent.com/42538714/98184039-69659900-1ed7-11eb-81ee-490aef2d5edb.png)](https://vizhub.com/arjunrao796123/577b7e4d41b84c19aa8830ca0fd7e4c8)
 
 
 ## Future Work
